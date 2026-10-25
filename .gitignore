@@ -1,0 +1,4 @@
+.zell/
+build/
+target/
+*.o

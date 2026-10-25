@@ -1,0 +1,2 @@
+// web: scaffold. The code moves here from the main repo (removed from the tree, tag web-in-tree), see docs/EXTRACTION.md there.
+namespace web

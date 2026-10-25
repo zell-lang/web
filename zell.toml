@@ -1,0 +1,7 @@
+[package]
+name = "web"
+version = "0.0.1"
+namespace = "web"
+
+license = "MIT"
+description = "Web framework for Zell: routing, DI, middleware, binding, OpenAPI"
